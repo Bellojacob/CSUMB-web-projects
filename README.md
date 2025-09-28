@@ -18,7 +18,7 @@ Projects include full-page builds, redesigns, and smaller content or accessibili
 - [Kinesiology – Research Opportunities](https://csumb.edu/kinesiology/research-opportunities/) – Rebuilt and modernized an outdated department page, improving layout, readability, and performance.  
 - [Health, Human Services and Public Policy](https://csumb.edu/hhspp/) – Rebuilt and modernized an outdated department page, improving layout, readability, and performance.  
 - [Health, Human Services and Public Policy – Faculty and Staff](https://csumb.edu/hhspp/faculty-staff/) – Rebuilt and modernized an outdated department page, improving layout, readability, and performance.  
-- [Health, Human Services and Public Policy – Hands-On Learning]([https://csumb.edu/academics/colleges-schools/chshs/departments/hhspp/hands-on-learning](https://csumb.edu/hhspp/hands-on-learning/)) – Rebuilt and modernized an outdated department page, improving layout, readability, and performance.  
+- [Health, Human Services and Public Policy – Hands-On Learning](https://csumb.edu/hhspp/hands-on-learning/) – Rebuilt and modernized an outdated department page, improving layout, readability, and performance.  
 
 
 
